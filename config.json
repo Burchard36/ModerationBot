@@ -1,0 +1,11 @@
+{
+  "token": "YOUR_TOKEN_HERE",
+  "setup": true,
+  "settings": {
+    "prefix": "=",
+    "botColor": "#f20e1d",
+    "botName": "no",
+    "botOwnerID": "None",
+    "serverID": "None"
+  }
+}
