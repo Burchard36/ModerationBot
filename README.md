@@ -1,5 +1,6 @@
 # ModerationBot
 Was supposed to be a paid project but never received payment so here you go people of github
+Special thanks to `Teaxl#2020` For wasting my time!
 
 # How to use the bot
 
