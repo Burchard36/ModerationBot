@@ -1,10 +1,10 @@
 {
   "token": "YOUR_TOKEN_HERE",
-  "setup": true,
+  "setup": false,
   "settings": {
-    "prefix": "=",
+    "prefix": "-",
     "botColor": "#f20e1d",
-    "botName": "no",
+    "botName": "None",
     "botOwnerID": "None",
     "serverID": "None"
   }
