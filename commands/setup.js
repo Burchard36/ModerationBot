@@ -25,7 +25,7 @@ exports.run = (client, message, args) => {
             });
         })
     } else {
-        
+        setup.runSetup(message);
     }
 
 }
